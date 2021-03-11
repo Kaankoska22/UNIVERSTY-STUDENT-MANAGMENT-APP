@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BEYKENTÜNİVERSTESİ1DataSet9" targetNamespace="http://tempuri.org/BEYKENTÜNİVERSTESİ1DataSet9.xsd" xmlns:mstns="http://tempuri.org/BEYKENTÜNİVERSTESİ1DataSet9.xsd" xmlns="http://tempuri.org/BEYKENTÜNİVERSTESİ1DataSet9.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BEYKENTÜNİVERSTESİ1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BEYKENTÜNİVERSTESİ1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsApp1.Properties.Settings.GlobalReference.Default.BEYKENTÜNİVERSTESİ1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DERSLERBİLGİTableAdapter" GeneratorDataComponentClassName="DERSLERBİLGİTableAdapter" Name="DERSLERBİLGİ" UserDataComponentName="DERSLERBİLGİTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BEYKENTÜNİVERSTESİ1ConnectionString (Settings)" DbObjectName="BEYKENTÜNİVERSTESİ1.dbo.DERSLERBİLGİ" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT DERASAD FROM dbo.DERSLERBİLGİ</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="DERASAD" DataSetColumn="DERASAD" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BEYKENTÜNİVERSTESİ1DataSet9" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="BEYKENTÜNİVERSTESİ1DataSet9" msprop:Generator_UserDSName="BEYKENTÜNİVERSTESİ1DataSet9">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DERSLERBİLGİ" msprop:Generator_TableClassName="DERSLERBİLGİDataTable" msprop:Generator_TableVarName="tableDERSLERBİLGİ" msprop:Generator_TablePropName="DERSLERBİLGİ" msprop:Generator_RowDeletingName="DERSLERBİLGİRowDeleting" msprop:Generator_RowChangingName="DERSLERBİLGİRowChanging" msprop:Generator_RowEvHandlerName="DERSLERBİLGİRowChangeEventHandler" msprop:Generator_RowDeletedName="DERSLERBİLGİRowDeleted" msprop:Generator_UserTableName="DERSLERBİLGİ" msprop:Generator_RowChangedName="DERSLERBİLGİRowChanged" msprop:Generator_RowEvArgName="DERSLERBİLGİRowChangeEvent" msprop:Generator_RowClassName="DERSLERBİLGİRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DERASAD" msprop:Generator_ColumnVarNameInTable="columnDERASAD" msprop:Generator_ColumnPropNameInRow="DERASAD" msprop:Generator_ColumnPropNameInTable="DERASADColumn" msprop:Generator_UserColumnName="DERASAD" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

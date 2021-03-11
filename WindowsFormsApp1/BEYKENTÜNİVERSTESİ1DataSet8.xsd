@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BEYKENTÜNİVERSTESİ1DataSet8" targetNamespace="http://tempuri.org/BEYKENTÜNİVERSTESİ1DataSet8.xsd" xmlns:mstns="http://tempuri.org/BEYKENTÜNİVERSTESİ1DataSet8.xsd" xmlns="http://tempuri.org/BEYKENTÜNİVERSTESİ1DataSet8.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BEYKENTÜNİVERSTESİ1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BEYKENTÜNİVERSTESİ1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsApp1.Properties.Settings.GlobalReference.Default.BEYKENTÜNİVERSTESİ1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="BOLUMLERTableAdapter" GeneratorDataComponentClassName="BOLUMLERTableAdapter" Name="BOLUMLER" UserDataComponentName="BOLUMLERTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BEYKENTÜNİVERSTESİ1ConnectionString (Settings)" DbObjectName="BEYKENTÜNİVERSTESİ1.dbo.BOLUMLER" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT BOLUMAD FROM dbo.BOLUMLER</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="BOLUMAD" DataSetColumn="BOLUMAD" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BEYKENTÜNİVERSTESİ1DataSet8" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="BEYKENTÜNİVERSTESİ1DataSet8" msprop:Generator_UserDSName="BEYKENTÜNİVERSTESİ1DataSet8">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BOLUMLER" msprop:Generator_TableClassName="BOLUMLERDataTable" msprop:Generator_TableVarName="tableBOLUMLER" msprop:Generator_TablePropName="BOLUMLER" msprop:Generator_RowDeletingName="BOLUMLERRowDeleting" msprop:Generator_RowChangingName="BOLUMLERRowChanging" msprop:Generator_RowEvHandlerName="BOLUMLERRowChangeEventHandler" msprop:Generator_RowDeletedName="BOLUMLERRowDeleted" msprop:Generator_UserTableName="BOLUMLER" msprop:Generator_RowChangedName="BOLUMLERRowChanged" msprop:Generator_RowEvArgName="BOLUMLERRowChangeEvent" msprop:Generator_RowClassName="BOLUMLERRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BOLUMAD" msprop:Generator_ColumnVarNameInTable="columnBOLUMAD" msprop:Generator_ColumnPropNameInRow="BOLUMAD" msprop:Generator_ColumnPropNameInTable="BOLUMADColumn" msprop:Generator_UserColumnName="BOLUMAD" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

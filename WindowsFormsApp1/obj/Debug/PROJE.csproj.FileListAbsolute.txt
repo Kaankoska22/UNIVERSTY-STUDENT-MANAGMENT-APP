@@ -1,0 +1,7 @@
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ANAGİRİŞ.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ÖĞRENCİDERSLERBİLGİ.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ÖĞRENCİNOTBİLGİLERİ.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ŞİFRE.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PROJE.csproj.CoreCompileInputs.cache

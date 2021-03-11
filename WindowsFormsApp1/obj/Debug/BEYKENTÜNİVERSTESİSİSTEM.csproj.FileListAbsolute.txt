@@ -1,0 +1,66 @@
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ANAGİRİŞ.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ÖĞRENCİDERSLERBİLGİ.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ŞİFRE.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BEYKENTÜNİVERSTESİSİSTEM.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BEYKENTÜNİVERSTESİSİSTEM.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BEYKENTÜNİVERSTESİSİSTEM.csprojAssemblyReference.cache
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.şifreyönetim.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ŞİFREAKADEMİSYEN.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YÖNETİM.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.akademisyenekranı.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.güncellemeekranıakademisyen.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.öğrencigüncelle.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yöneticigüncelleme.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YNÖĞRENCİGÜNCELLE.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yöneticiöğrencisilme.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yönetimakademisyensilme.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yöneticiakademisyengüncelleme.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KAYITLIAKADEMİSYENLER.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kayıtlıöğrencilerigörüntüle.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.öğrencinotlardetay.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VAROLANBÖLÜMLER.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AKTİFOLANDERSLER.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YENİDERSAÇ.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SINIFAKTİFDERLERİGÖRÜNTÜLE.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YÖNETİMBOLUMAÇ.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BOLUMAÇSAYFA1.resources
+C:\Users\casper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YÖNLENDİRİCİ.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.akademisyenekranı.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AKTİFOLANDERSLER.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ANAGİRİŞ.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BOLUMAÇSAYFA1.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.güncellemeekranıakademisyen.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KAYITLIAKADEMİSYENLER.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kayıtlıöğrencilerigörüntüle.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SINIFAKTİFDERLERİGÖRÜNTÜLE.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VAROLANBÖLÜMLER.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YENİDERSAÇ.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YNÖĞRENCİGÜNCELLE.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yöneticiakademisyengüncelleme.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yöneticigüncelleme.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yöneticiöğrencisilme.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yönetimakademisyensilme.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YÖNETİM.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YÖNETİMBOLUMAÇ.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YÖNLENDİRİCİ.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.öğrencigüncelle.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.öğrencinotlardetay.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ÖĞRENCİDERSLERBİLGİ.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.şifreyönetim.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ŞİFRE.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ŞİFREAKADEMİSYEN.resources
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\BEYKENTÜNİVERSTESİSİSTEM.csproj.GenerateResource.Cache
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\BEYKENTÜNİVERSTESİSİSTEM.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\PROJELERİM\BEYKENT ÜNİVERSTESİ SİSTEMİ\WindowsFormsApp1\obj\Debug\BEYKENTÜNİVERSTESİSİSTEM.csproj.CoreCompileInputs.cache
